@@ -1,8 +1,8 @@
-title: GlPortal
+title: Radix Engine
 author:
-  name: GlPortal Team
+  name: RadixTeam
 metadata:
-    description: 'A free 3d puzzle platformer with teleportation and physics'
+    description: 'The developer portal for RadixEngine'
 menu:
-  - text: Contribute
-    url: http://contribute.glportal.de/en/latest/
+  - text: GlPortal Website
+    url: https://glportal.de/
